@@ -1,0 +1,10 @@
+{
+    "name": "conc",
+    "authors": ["schwalbe_t"],
+    "desciption": "Implements concurrency primitives and utilities.",
+    "type": "library",
+    "backend": "c",
+    "dependencies": [
+        "https://github.com/quill-project/std-c"
+    ]
+}
