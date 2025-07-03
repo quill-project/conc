@@ -1,7 +1,7 @@
 {
     "name": "conc",
     "authors": ["schwalbe_t"],
-    "desciption": "Implements concurrency primitives and utilities.",
+    "description": "Implements concurrency primitives and utilities.",
     "type": "library",
     "backend": "c",
     "dependencies": [
